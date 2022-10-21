@@ -1,0 +1,1 @@
+import{_ as c,e as o,f as _,o as s,a as t}from"./index.f40ae83d.js";const n={},a={class:"-container"};function r(d,i){const e=t("arsc-choose-time");return s(),o("div",a,[_(e)])}const l=c(n,[["render",r],["__scopeId","data-v-c37247c2"]]);export{l as default};
