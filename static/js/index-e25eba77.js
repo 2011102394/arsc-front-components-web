@@ -1,0 +1,1 @@
+import{d as a,e as s,f as _,o as c,a as t,_ as r}from"./index-87c93070.js";const d={class:"choose-area-container"},p=a({__name:"index",setup(l){const o=e=>{console.log(e)};return(e,i)=>{const n=t("arsc-choose-area");return c(),s("div",d,[_(n,{onChange:o})])}}});const m=r(p,[["__scopeId","data-v-d4760e51"]]);export{m as default};
