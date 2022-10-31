@@ -1,0 +1,1 @@
+import{d as s,e as c,f as l,F as r,g as m,o as _,a as i}from"./index-38837c29.js";const p=m("br",null,null,-1),u=s({__name:"index",setup(h){const o={clearable:!1},n=e=>{console.log(e)},t=e=>{console.log(e)};return(e,d)=>{const a=i("arsc-choose-time");return _(),c(r,null,[l(a,{startOptions:o,onStartTimeChange:n,onStopTimeChange:t}),p],64)}}});export{u as default};

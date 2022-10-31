@@ -1,1 +1,0 @@
-import{d as a,r as n,c as i,w as c,a as r,o as u,b as l}from"./index-87c93070.js";const f=a({__name:"index",setup(_){const e=n(!1);return(p,o)=>{const s=r("arsc-choose-icon");return u(),i(s,{title:"\u9009\u62E9\u56FE\u6807",visible:e.value,"onUpdate:visible":o[0]||(o[0]=t=>e.value=t)},{default:c(()=>[l(" \u9009\u62E9\u56FE\u6807 ")]),_:1},8,["visible"])}}});export{f as default};

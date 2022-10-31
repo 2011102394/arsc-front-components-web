@@ -1,0 +1,1 @@
+import{d as a,c as s,o as t,a as r}from"./index-38837c29.js";const h=a({__name:"index",setup(_){const e=o=>{console.log(o)},n=o=>{console.log(o)};return(o,i)=>{const c=r("arsc-choose-city");return t(),s(c,{onChangeCity:e,onChangeProvince:n})}}});export{h as default};
